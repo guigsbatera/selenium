@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class GoogleTes {
+public class GoogleTest {
   private WebDriver driver;
   private final String URL_BASE = "https://www.google.com/?hl=pt-BR";
   private final String CAMINHO_DRIVE = "src/test/java/automation/resource/chromedriver";
